@@ -1,5 +1,5 @@
 {
-  "name": "test-pakage",
+  "name": "@btwn/test-pakage'",
   "version": "1.0.0",
   "description": "paquete de test",
   "main": "test.js",
